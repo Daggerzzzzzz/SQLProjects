@@ -1,2 +1,2 @@
 # SQLProjects
-Contains different queries for SQL.
+Contains different queries for Oracle SQL.
