@@ -108,7 +108,7 @@ FETCH FIRST 25 ROWS ONLY
 ```
 ![Most Optimal Skills](Assets/hist_plot.png)
 <p align="center">
-  *A bar graph visualizing the most optimal skills based on salary and demand.*
+  <i>A bar graph visualizing the most optimal skills based on salary and demand.</i>
 </p>
 
 - SQL is the most in-demand skill, offering a strong balance of high demand and competitive salary.
