@@ -106,6 +106,11 @@ GROUP BY skill
 ORDER BY average_salary DESC, demand_count DESC
 FETCH FIRST 25 ROWS ONLY
 ```
+![Most Optimal Skills](Assets/hist_plot.png)
+<p align="center">
+  *A bar graph visualizing the most optimal skills based on salary and demand.*
+</p>
+
 - SQL is the most in-demand skill, offering a strong balance of high demand and competitive salary.
 - Python and Tableau stand out as highly rewarding technical skills, combining high salaries with significant demand.
 - Power BI and Snowflake are valuable for data visualization and cloud-based data management, respectively, providing good salary opportunities with moderate demand.
