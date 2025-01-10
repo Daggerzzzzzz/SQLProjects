@@ -1,7 +1,7 @@
 # Introduction
 Dive into the data job market in the Philippines! 🏙️, focusing on key locations (Manila, Taguig, Makati), top companies, and required skills. Uncover in-demand tools like SQL, Excel, Tableau 📊, Python 🐍, and R 📈, and identify skills that boost both salary and demand. Perfect for career planning or upskilling! 🚀
 
-Check the project here: [SalaryDatabase](Project Files/SalaryDatabase.sql)
+Check the project here: [SalaryDatabase](ProjectFiles/SalaryDatabase.sql)
 # Background 
 This SQL query set aims to answer key questions for aspiring Data Analysts in the Philippines:
 
@@ -106,6 +106,11 @@ GROUP BY skill
 ORDER BY average_salary DESC, demand_count DESC
 FETCH FIRST 25 ROWS ONLY
 ```
+![Most Optimal Skills](Assets/hist_plot.png)
+<p align="center">
+  <i>A bar graph visualizing the most optimal skills based on salary and demand.</i>
+</p>
+
 - SQL is the most in-demand skill, offering a strong balance of high demand and competitive salary.
 - Python and Tableau stand out as highly rewarding technical skills, combining high salaries with significant demand.
 - Power BI and Snowflake are valuable for data visualization and cloud-based data management, respectively, providing good salary opportunities with moderate demand.
