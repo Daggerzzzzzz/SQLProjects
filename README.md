@@ -2,6 +2,8 @@
 Dive into the data job market in the Philippines! 🏙️, focusing on key locations (Manila, Taguig, Makati), top companies, and required skills. Uncover in-demand tools like SQL, Excel, Tableau 📊, Python 🐍, and R 📈, and identify skills that boost both salary and demand. Perfect for career planning or upskilling! 🚀
 
 Check the project here: [SalaryDatabase](ProjectFiles/SalaryDatabase.sql)
+
+Credits to [LukeBarousse](https://github.com/lukebarousse) for his guidance and for providing the datasets!
 # Background 
 This SQL query set aims to answer key questions for aspiring Data Analysts in the Philippines:
 
